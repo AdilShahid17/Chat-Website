@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# production
+build
+dist
+
+# data
+data/chats.json
+data/messages.json
+data/users.json
+
+# misc
+.DS_Store
+.env
